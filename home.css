@@ -417,7 +417,7 @@ body{
     z-index: 3;
 }
 .signup{
-    height: 375px;
+    height: 390px;
 }
 .signin{
     height: 335px;
@@ -616,6 +616,7 @@ body{
         width: 100%;
         margin: 0;
         padding: 0;
+        margin-bottom: 15px;
     }
     .title .head .bol{
         border-bottom: 0px solid #000;
@@ -627,6 +628,9 @@ body{
     }
     .pic .write h2{
         font-size: 23px;
+    }
+    .signup{
+        height:
     }
     .signin .green, .signup .green{
         display: none;
